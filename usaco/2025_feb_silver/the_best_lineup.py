@@ -40,4 +40,3 @@ for _ in range(int(input())):
             move(lo(b[i]), 0)
     
     print(*d)
-
